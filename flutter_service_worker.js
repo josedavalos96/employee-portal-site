@@ -4,19 +4,20 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "d13043c052c83e77cb3ab6bdcb498471",
-"index.html": "b640f9e6e6d59396365a54dc1798538a",
-"/": "b640f9e6e6d59396365a54dc1798538a",
-"main.dart.js": "356e89ac97ac99344b67de3cdc438693",
+"index.html": "178a9eb7da0338dd3a0678842a4dc566",
+"/": "178a9eb7da0338dd3a0678842a4dc566",
+"main.dart.js": "f8b561c78e186afbfae79d43d06f0475",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "manifest.json": "fc6d6c6740f7d0de74f6b0c7b49f9462",
 "assets/images/capmation-logo-search-page.png": "a1478913a9144764b16a81e2dc554f99",
 "assets/images/capmation-logo-white.png": "1dbc8f8f16bf317b5fb609e6f28ef838",
-"assets/AssetManifest.json": "40169ae45b93d5b966c09ed2064a2ce8",
+"assets/AssetManifest.json": "c7919d4dd6e2cf99a2360731295d8ebd",
 "assets/NOTICES": "28212c691525ead6aad06c337bc7136c",
-"assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
+"assets/FontManifest.json": "8420c7bab798742a8ada02cc535855b1",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "b14fcf3ee94e3ace300b192e9e7c8c5d",
+"assets/fonts/Montserrat-Black.ttf": "27e3649bab7c62fa21b8837c4842e40e",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1"
 };
 
