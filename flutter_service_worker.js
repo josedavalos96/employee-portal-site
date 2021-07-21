@@ -4,9 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "d13043c052c83e77cb3ab6bdcb498471",
-"index.html": "9df1fb0df3eacb7ee6c1b667520f46e3",
-"/": "9df1fb0df3eacb7ee6c1b667520f46e3",
-"main.dart.js": "9b4d26b294c0076633efc4615a80a090",
+"index.html": "bf3d96603295f51542bdbb2a1e06b4e4",
+"/": "bf3d96603295f51542bdbb2a1e06b4e4",
+"main.dart.js": "070d4333f62731ab4cf3d64903257468",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
@@ -15,7 +15,7 @@ const RESOURCES = {
 "assets/images/capmation-logo-white.png": "1dbc8f8f16bf317b5fb609e6f28ef838",
 "assets/images/logo-capmation-blue.png": "9b177af0657b36bac017ccfa253d2856",
 "assets/AssetManifest.json": "086c43a66f983ce2aa9edb00dea45913",
-"assets/NOTICES": "350e744f615aa1ed777a8aea90824181",
+"assets/NOTICES": "8a5b126ba3be1f570efdffdb63f68557",
 "assets/FontManifest.json": "8420c7bab798742a8ada02cc535855b1",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "b14fcf3ee94e3ace300b192e9e7c8c5d",
 "assets/fonts/Montserrat-Black.ttf": "27e3649bab7c62fa21b8837c4842e40e",
