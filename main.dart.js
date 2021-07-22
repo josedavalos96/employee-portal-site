@@ -44000,23 +44000,24 @@ return P.N($async$h6,r)},
 xT:function(a){return this.a5Z(a)},
 a5Z:function(a){var s=0,r=P.O(t.z),q=1,p,o=[],n=this,m,l,k,j,i,h,g,f
 var $async$xT=P.K(function(b,c){if(b===1){p=c
-s=q}while(true)switch(s){case 0:g=Q.azZ()
+s=q}while(true)switch(s){case 0:n.cx=""
+m=Q.azZ()
 q=3
-m=P.bW("https://cors-everywhere-me.herokuapp.com/http://employeeportalapi-env.eba-wnztfe4z.us-east-1.elasticbeanstalk.com/v1/account",0,null)
-i=t.N
-l=C.F.dT(P.E(["id",a,"occupation",n.Q,"email",n.ch,"name",n.z],i,i))
+l=P.bW("https://cors-everywhere-me.herokuapp.com/http://employeeportalapi-env.eba-wnztfe4z.us-east-1.elasticbeanstalk.com/v1/account",0,null)
+h=t.N
+k=C.F.dT(P.E(["id",a,"occupation",n.Q,"email",n.ch,"name",n.z],h,h))
 s=6
-return P.R(G.ot(m,l,P.E(["Content-type","application/json"],i,i)),$async$xT)
-case 6:k=c
-if(k.b===201){g.tv(a)
+return P.R(G.ot(l,k,P.E(["Content-type","application/json"],h,h)),$async$xT)
+case 6:j=c
+if(j.b===201){m.tv(a)
 n.ag()}else P.bM("error")
 q=1
 s=5
 break
 case 3:q=2
 f=p
-j=H.X(f)
-P.bM("Error - LoginService: syncProfileHeader "+H.e(j))
+i=H.X(f)
+P.bM("Error - LoginService: syncProfileHeader "+H.e(i))
 s=5
 break
 case 2:s=1
@@ -44058,7 +44059,8 @@ return P.N($async$Cz,r)},
 tx:function(a,b){return this.a0y(a,b)},
 a0y:function(a0,a1){var s=0,r=P.O(t.z),q=1,p,o=[],n=this,m,l,k,j,i,h,g,f,e,d,c,b,a
 var $async$tx=P.K(function(a2,a3){if(a2===1){p=a3
-s=q}while(true)switch(s){case 0:q=3
+s=q}while(true)switch(s){case 0:n.cx=""
+q=3
 m=""
 l=P.bW("https://graph.microsoft.com/v1.0/me/photos/240x240/$value",0,null)
 d=t.N

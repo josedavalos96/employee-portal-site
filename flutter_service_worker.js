@@ -4,9 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"main.dart.js": "2deff2c617a6a306ff2b21a52397b42e",
-"index.html": "51af13cb7b1c1bc7b79c8e925a7cdd2f",
-"/": "51af13cb7b1c1bc7b79c8e925a7cdd2f",
+"main.dart.js": "8cdb07713bce34cd7fb418e7da18a037",
+"index.html": "273e0980f805de571e97e1162cb90953",
+"/": "273e0980f805de571e97e1162cb90953",
 "manifest.json": "fc6d6c6740f7d0de74f6b0c7b49f9462",
 "assets/images/capmation-logo-white.png": "1dbc8f8f16bf317b5fb609e6f28ef838",
 "assets/images/logo-capmation-blue.png": "9b177af0657b36bac017ccfa253d2856",
